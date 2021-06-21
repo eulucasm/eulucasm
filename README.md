@@ -32,7 +32,7 @@ Estou em processo de migração da área de infraestrutura para desenvolvimento,
 - 💼 Sou apaixonado por tecnologia, por isso sigo estudando todos os dias, sem descanso para alcançar meus objetivos;
 - 👾 Meus hobbies são: 
   - Estudar (sou viciado em adquirir conhecimento); 
-  - Games (Amo um bom RPG ou games com uma boa historia, tipo The last of us e Horizon zero down;
+  - Games (Amo um bom RPG ou games com uma boa historia, tipo The last of us e Horizon zero down);
   - Ler livros;
   - Jogar League of Legends, mas sempre que jogo, passo vergonha;
 - 💬 Amo conversar e trocar conhecimento, então se quiser, pode me chamar :) ;
