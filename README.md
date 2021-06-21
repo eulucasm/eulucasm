@@ -20,9 +20,7 @@ Me chamo <b> Lucas Marques</b>.
 Estou em processo de migração da área de infraestrutura para desenvolvimento, focando inicialmente no Back-end. Estudando e me aperfeiçoando todos os dias para me tornar um <b>Desenvolvedor Full-Stack </b> num futuro próximo(BEM PRÓXIMO) .
 </p>
 
-<p align="left" >
-Nas horas vagas, quando não estou estudando ou trabalhando, gosto de ocupar meu tempo com um bom game 🚀(ps ou nintendo sempre!!!).
-</p>
+
 <hr />
 
 **Meus interesses pessoais:**
