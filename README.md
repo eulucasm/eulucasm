@@ -1,4 +1,4 @@
-<h1 align="center"> Seja bem vindo e bem vinda! </h1>
+<h1 align="center"> Bem vindo(a) ao meu Git!!! </h1>
 <hr/>
 <a href="https://github.com/eulucasm" target="_blank">
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
