@@ -1,3 +1,4 @@
+
 <h1 align="center"> Bem vindo(a) ao meu Git!!! </h1>
 <hr/>
 <a href="https://github.com/eulucasm" target="_blank">
@@ -45,6 +46,11 @@ Estou em processo de migração da área de infraestrutura para desenvolvimento,
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=eulucasm&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Lucas-Marques" />
 </p>
+
+**Principais projetos**
+- https://github.com/eulucasm/nlw-Node - Construção de uma API em conjunto da NLW/Rocketseat;
+- https://github.com/eulucasm/udm_realTimeChet-webSocket - Chat em tempo real com WebSocket;
+- https://github.com/eulucasm/udm_ApiRestFull - Api que faz alterações no DB(mongo)
 
 **Linguagens e ferramentas:**  
 
