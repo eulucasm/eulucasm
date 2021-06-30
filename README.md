@@ -50,7 +50,7 @@ Estou em processo de migração da área de infraestrutura para desenvolvimento,
 **Principais projetos**
 - https://github.com/eulucasm/nlw-Node - Construção de uma API em conjunto da NLW/Rocketseat;
 - https://github.com/eulucasm/udm_realTimeChet-webSocket - Chat em tempo real com WebSocket;
-- https://github.com/eulucasm/udm_ApiRestFull - Api que faz alterações no DB(mongo)
+- https://github.com/eulucasm/udm_ApiRestFull - APIRestFull para consumo de qualquer front;
 
 **Linguagens e ferramentas:**  
 
