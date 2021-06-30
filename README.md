@@ -40,10 +40,8 @@ Estou em processo de migração da área de infraestrutura para desenvolvimento,
 - 📫 Se quiser pode enviar um email para Lucaspoletis@gmail.com.
 - 📝 Veja meu <a href="https://drive.google.com/file/d/1GXwOiis42m8ASy0BtqMyzj0qgcxyWIWn/view?usp=sharing" target="_blank">Currículo</a> para mais informações.
 
-<p>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eulucasm&layout=compact&theme=graywhite&title_color=268bd2" alt="Lucas-Marques" />
-</p>
-<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=eulucasm&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Lucas-Marques" />
 </p>
 
