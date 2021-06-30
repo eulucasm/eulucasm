@@ -43,8 +43,8 @@ Estou em processo de migração da área de infraestrutura para desenvolvimento,
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eulucasm&layout=compact&theme=graywhite&title_color=268bd2" alt="Lucas-Marques" />
 </p>
-<p>&nbsp;
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=eulucasm&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Lucas-Marques" />
+<p>;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eulucasm&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Lucas-Marques" />
 </p>
 
 **Projeto que estou trabalhando**
