@@ -42,7 +42,7 @@ Estou em processo de migração da área de infraestrutura para desenvolvimento,
 
 <p align="center">
   <img width="400" src="https://github-readme-stats.pleiterson.vercel.app/api?username=eulucasm&show_icons=true&theme=vue-dark" alt="Lucas"/>
-  <img width="300" src="https://github-readme-stats.pleiterson.vercel.app/api/top-langs?username=eulucasm&layout=compact&theme=vue-dark" alt="Linguagens utilizadas">
+  <img width="400" src="https://github-readme-stats.pleiterson.vercel.app/api/top-langs?username=eulucasm&layout=compact&theme=vue-dark" alt="Linguagens utilizadas">
 </p>
 
 **Projeto que estou trabalhando**
