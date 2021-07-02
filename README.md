@@ -53,7 +53,7 @@ Estou em processo de migração da área de infraestrutura para desenvolvimento,
 - https://github.com/eulucasm/udm_realTimeChet-webSocket - Chat em tempo real com WebSocket;
 - https://github.com/eulucasm/udm_ApiRestFull - APIRestFull para consumo de qualquer front;
 
-**Linguagens e ferramentas:**  
+**My Skills:**  
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
