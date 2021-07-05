@@ -48,7 +48,7 @@ Estou em processo de migração da área de infraestrutura para desenvolvimento,
 
 
 **Projeto que estou trabalhando**
-- https://github.com/eulucasm/apirest_tdd - API REST em NodeJS aplicando teste desde o inicio da aplicação.
+- https://github.com/eulucasm/api_tdd - API REST em NodeJS aplicando teste desde o inicio da aplicação.
 
 
 
