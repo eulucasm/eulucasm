@@ -36,8 +36,8 @@ Estou em processo de migração da área de infraestrutura para desenvolvimento,
   - Games (Amo um bom RPG ou games com uma boa historia, tipo The last of us e Horizon zero down);
   - Ler livros;
   - Jogar League of Legends, mas sempre que jogo, passo vergonha;
-- 💬 Amo conversar e trocar conhecimento, então se quiser, pode me chamar :) ;
-- 📫 Se quiser pode enviar um email para Lucaspoletis@gmail.com.
+- 💬 Amo conversar e trocar conhecimento, então pode me chamar :) ;
+- 📫 Se preferir, envie um email para Lucaspoletis@gmail.com.
 - 📝 Veja meu <a href="https://drive.google.com/file/d/1GXwOiis42m8ASy0BtqMyzj0qgcxyWIWn/view?usp=sharing" target="_blank">Currículo</a> para mais informações.
 
 <p align="center">
