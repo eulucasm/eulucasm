@@ -45,14 +45,19 @@ Estou em processo de migração da área de infraestrutura para desenvolvimento,
   <img width="400" src="https://github-readme-stats.pleiterson.vercel.app/api/top-langs?username=eulucasm&layout=compact&theme=vue-dark" alt="Linguagens utilizadas">
 </p>
 
+**O que estou estudando**
+- TypeScript
+- Node.Js
+- Vue.Js
 
 
 **Projeto que estou trabalhando**
-- https://github.com/eulucasm/api_tdd - API REST em NodeJS aplicando teste desde o inicio da aplicação.
+- 
 
 
 
 **Principais projetos**
+- https://github.com/eulucasm/api_tdd - API REST em NodeJS aplicando teste desde o inicio da aplicação.
 - https://github.com/eulucasm/nlw-Node - Construção de uma API em conjunto da NLW/Rocketseat;
 - https://github.com/eulucasm/udm_realTimeChet-webSocket - Chat em tempo real com WebSocket;
 
