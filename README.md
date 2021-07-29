@@ -52,7 +52,7 @@ Estou em processo de migração da área de infraestrutura para desenvolvimento,
 
 
 **Projeto que estou trabalhando**
--https://github.com/eulucasm/api-vendas
+- https://github.com/eulucasm/api-vendas
 
 
 **Principais projetos**
