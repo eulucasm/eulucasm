@@ -40,7 +40,7 @@ Estou em processo de migração da área de infraestrutura para desenvolvimento,
 - 📫 Se preferir, envie um email para Lucaspoletis@gmail.com.
 - 📝 Veja meu <a href="https://drive.google.com/file/d/1GXwOiis42m8ASy0BtqMyzj0qgcxyWIWn/view?usp=sharing" target="_blank">Currículo</a> para mais informações.
 
-<p align="center">
+<p align="left">
   <img width="400" src="https://github-readme-stats.pleiterson.vercel.app/api?username=eulucasm&show_icons=true&theme=vue-dark" alt="Lucas"/>
   <img width="400" src="https://github-readme-stats.pleiterson.vercel.app/api/top-langs?username=eulucasm&layout=compact&theme=vue-dark" alt="Linguagens utilizadas">
 </p>
@@ -52,7 +52,7 @@ Estou em processo de migração da área de infraestrutura para desenvolvimento,
 
 
 **Projeto que estou trabalhando**
-
+-https://github.com/eulucasm/api-vendas
 
 
 **Principais projetos**
