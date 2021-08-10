@@ -26,7 +26,7 @@ Estou em processo de migração da área de infraestrutura para desenvolvimento,
 
 **Meus interesses pessoais:**
 
-<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1624298719316.png" width="400px" />
+
 
 - 👩‍💻 Estou estudando **NodeJS**, **JavaScript**, **TypeScript**, **DB relacional** e **não relacional**;
 - Hoje atuando como Dev Backend JR. 
