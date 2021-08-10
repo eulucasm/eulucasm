@@ -56,6 +56,7 @@ Estou em processo de migração da área de infraestrutura para desenvolvimento,
 
 
 **Principais projetos**
+- https://github.com/eulucasm/relacionamento_CRUD - GRUD construido em Nest e Graphql
 - https://github.com/eulucasm/api_tdd - API REST em NodeJS aplicando teste desde o inicio da aplicação.
 - https://github.com/eulucasm/nlw-Node - Construção de uma API em conjunto da NLW/Rocketseat;
 - https://github.com/eulucasm/udm_realTimeChet-webSocket - Chat em tempo real com WebSocket;
