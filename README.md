@@ -36,7 +36,7 @@ Estou em processo de migração da área de infraestrutura para desenvolvimento,
   - Jogar League of Legends, mas sempre que jogo, passo vergonha;
 - 💬 Amo conversar e trocar conhecimento, então pode me chamar :) ;
 - 📫 Se preferir, envie um email para Lucaspoletis@gmail.com.
-- 📝 Veja meu <a href="https://drive.google.com/file/d/1GXwOiis42m8ASy0BtqMyzj0qgcxyWIWn/view?usp=sharing" target="_blank">Currículo</a> para mais informações.
+- 📝 Veja meu <a href="https://drive.google.com/file/d/1HYneZa1HcC6YHp0eBMYDmW47sQvazGx8/view?usp=sharing" target="_blank">Currículo</a> para mais informações.
 
 <p align="left">
   <img width="400" src="https://github-readme-stats.pleiterson.vercel.app/api?username=eulucasm&show_icons=true&theme=vue-dark" alt="Lucas"/>
