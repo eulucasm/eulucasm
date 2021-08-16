@@ -48,6 +48,8 @@ Estou em processo de migração da área de infraestrutura para desenvolvimento,
 **O que estou estudando**
 - TypeScript
 - Node.Js
+- NestJs
+- GraphQL
 - Vue.Js
 
 
