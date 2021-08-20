@@ -53,7 +53,7 @@ Estou em processo de migração da área de infraestrutura para desenvolvimento,
 
 **Projeto que estou trabalhando**
 - https://github.com/eulucasm/api-vendas - Api Construindo uma API Restful de Vendas
-
+- https://github.com/eulucasm/endPoint_node_nest - Api desenvolvida em Nest para estudo de autenticação e autorização, envio de emails para confirmação de cadastro, envio de emails para recuperação de senha, e um CRUD completo.
 
 **Principais projetos**
 - https://github.com/eulucasm/relacionamento_CRUD - GRUD construido em Nest e Graphql
