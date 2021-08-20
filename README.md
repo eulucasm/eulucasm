@@ -62,7 +62,7 @@ Estou em processo de migração da área de infraestrutura para desenvolvimento,
 - https://github.com/eulucasm/udm_realTimeChet-webSocket - Chat em tempo real com WebSocket;
 
 **Repositorio de estudo Javascript e Typescript**
-- https://github.com/eulucasm/curso-js-ts - Comteudo do curso com explicações de das aulas, exercicios praticos(sim, eu resolvi todos os propostos), separado por nivel de andamento.
+- https://github.com/eulucasm/curso-js-ts - Conteudo do curso com explicações de das aulas, exercicios praticos(sim, eu resolvi todos os propostos), separado por nivel de andamento.
 
 
 **My Skills:**  
