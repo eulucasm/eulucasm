@@ -86,4 +86,3 @@ Me chamo <b> Lucas Marques</b>.
 
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eulucasm" alt="Lucas Marques" /> </p>
