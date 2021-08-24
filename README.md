@@ -42,7 +42,7 @@ Me chamo <b> Lucas Marques</b>.
 <div align="center">
   <a href="https://github.com/eulucasm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eulucasm&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=eulucasm&layout=compact&langs_count=15&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=eulucasm&layout=compact&langs_count=15&theme=dracula" />
 </div>
 
 <hr /> 
