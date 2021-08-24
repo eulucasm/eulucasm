@@ -37,11 +37,6 @@ Me chamo <b> Lucas Marques</b>.
 - 📫 Se preferir, envie um email para Lucaspoletis@gmail.com.
 - 📝 Veja meu <a href="https://drive.google.com/file/d/1HYneZa1HcC6YHp0eBMYDmW47sQvazGx8/view?usp=sharing" target="_blank">Currículo</a> para mais informações.
 
-<p align="left">
-  <img width="400" src="https://github-readme-stats.pleiterson.vercel.app/api?username=eulucasm&show_icons=true&theme=vue-dark" alt="Lucas"/>
-  <img width="400" src="https://github-readme-stats.pleiterson.vercel.app/api/top-langs?username=eulucasm&layout=compact&theme=vue-dark" alt="Linguagens utilizadas">
-</p>
-
 <div align="center">
   <a href="https://github.com/eulucasm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eulucasm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
