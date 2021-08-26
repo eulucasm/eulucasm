@@ -32,7 +32,7 @@ Me chamo <b> Lucas Marques</b>.
   - Estudar (sou viciado em adquirir conhecimento); 
   - Games (Amo um bom RPG ou games com uma boa historia, tipo The last of us e Horizon zero down);
   - Ler livros;
-  - Jogar League of Legends, mas sempre que jogo, passo vergonha;
+  - Cuidar das minhas plantinhas (Isso sim é terapia);
 - 💬 Amo conversar e trocar conhecimento, então pode me chamar :) ;
 - 📫 Se preferir, envie um email para Lucaspoletis@gmail.com.
 - 📝 Veja meu <a href="https://drive.google.com/file/d/1HYneZa1HcC6YHp0eBMYDmW47sQvazGx8/view?usp=sharing" target="_blank">Currículo</a> para mais informações.
