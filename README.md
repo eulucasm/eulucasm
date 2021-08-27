@@ -55,7 +55,6 @@ Me chamo <b> Lucas Marques</b>.
 - GraphQL
 - Vue.Js
 
-
 **Projeto que estou trabalhando**
   
 - https://github.com/eulucasm/api-vendas - Api Construindo uma API Restful de Vendas
