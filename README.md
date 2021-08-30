@@ -58,7 +58,6 @@ Me chamo <b> Lucas Marques</b>.
 **Projeto que estou trabalhando**
   
 - https://github.com/eulucasm/api-vendas - Api Construindo uma API Restful de Vendas
-- https://github.com/eulucasm/endPoint_node_nest - Api desenvolvida em Nest para estudo de autenticação e autorização, envio de emails para confirmação de cadastro, envio de emails para recuperação de senha, e um CRUD completo.
 
 **Principais projetos**
   
@@ -66,6 +65,7 @@ Me chamo <b> Lucas Marques</b>.
 - https://github.com/eulucasm/api_tdd - API REST em NodeJS aplicando teste desde o inicio da aplicação.
 - https://github.com/eulucasm/nlw-Node - Construção de uma API em conjunto da NLW/Rocketseat;
 - https://github.com/eulucasm/udm_realTimeChet-webSocket - Chat em tempo real com WebSocket;
+- https://github.com/eulucasm/endPoint_node_nest - Api desenvolvida em Nest para estudo de autenticação e autorização, envio de emails para confirmação de cadastro, envio de emails para recuperação de senha, e um CRUD completo.
 
 **Repositorio de estudo Javascript e Typescript**
   
