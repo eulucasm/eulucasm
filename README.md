@@ -49,11 +49,11 @@ Me chamo <b> Lucas Marques</b>.
   
 **O que estou estudando**
   
-- TypeScript
-- Node.Js
-- NestJs
-- GraphQL
-- Vue.Js
+-TypeScript
+-Node.Js
+-NestJs
+-GraphQL
+-Vue.Js
 
 **Projeto que estou trabalhando**
   
