@@ -1,5 +1,5 @@
 
-<h1 align="center"> Bem vindo(a) ao meu Git!!! </h1>
+<h1 align="center"> Bem vindo(a) ao meu Git !!! </h1>
 <hr/>
 
 <p align="left" > 
