@@ -15,7 +15,7 @@ Me chamo <b> Lucas Marques</b>.
 
 <a href="https://www.linkedin.com/in/lucasmarques90/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px"></a>
-<p align="left" >Atualmente moro em Monte mor/SP, no meio do mato(natureza ♥).<br />
+<p align="left" >Atualmente moro em Monte mor/SP.<br />
 </p>
 
 
