@@ -57,7 +57,7 @@ Me chamo <b> Lucas Marques</b>.
 
 **Projeto que estou trabalhando**
   
-- https://github.com/eulucasm/api-vendas - Api Construindo uma API Restful de Vendas
+- https://github.com/eulucasm/curso-nestjs - Estudos em NestJS e Microservices;
 
 **Principais projetos**
   
