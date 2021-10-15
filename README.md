@@ -50,9 +50,9 @@ Me chamo <b> Lucas Marques</b>.
 **O que estou estudando**
   
 - <a href="https://www.typescriptlang.org/" target="_blank" >TypeScript</a> .
-- <a href="https://nodejs.org/en/" target="_blank" >Node.Js</a>
-- <a href="https://nestjs.com/" target="_blank" >NestJs</a>
-- <a href="https://vuejs.org/" target="_blank" >Vue.Js</a>
+- <a href="https://nodejs.org/en/" target="_blank" >Node.Js</a>.
+- <a href="https://nestjs.com/" target="_blank" >NestJs</a>.
+- <a href="https://vuejs.org/" target="_blank" >Vue.Js</a>.
 
 **Projeto que estou trabalhando**
   
