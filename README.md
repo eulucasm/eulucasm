@@ -25,7 +25,6 @@ Me chamo <b> Lucas Marques</b>.
 
 
 
-- 👩‍💻 Estou estudando **NodeJS**, **JavaScript**, **TypeScript**, **DB relacional** e **não relacional**;
 - Hoje atuando como Dev Backend JR. 
 - 💼 Sou apaixonado por tecnologia, por isso sigo estudando todos os dias, sem descanso para alcançar meus objetivos;
 - 👾 Meus hobbies são: 
