@@ -55,7 +55,7 @@ Me chamo <b> Lucas Marques</b>.
 
 **Projeto que estou trabalhando**
   
-- https://github.com/eulucasm/curso-nestjs - Estudos em NestJS e Microservices;
+- https://github.com/eulucasm/meus-estudos-rocket - Formação Node com o Ignite junto a rocketseat
 
 **Principais projetos**
   
