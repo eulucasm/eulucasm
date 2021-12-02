@@ -67,7 +67,7 @@ Me chamo <b> Lucas Marques</b>.
 
 **Repositorio de estudo Javascript e Typescript**
   
-- https://github.com/eulucasm/curso-js-ts - Conteudo do curso com explicações de das aulas, exercicios praticos(sim, eu resolvi todos os propostos), separado por nivel de andamento.
+- https://github.com/eulucasm/curso-js-ts - Conteudo do curso com explicações de das aulas, exercicios praticos(sim, eu resolvi todos os propostos), separado por nivel de andamento (Curso do luiz miranda, usando a plataforma Udemy).
 
 
 **My Skills:**  
