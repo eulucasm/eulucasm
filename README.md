@@ -38,12 +38,6 @@ Me chamo <b> Lucas Marques</b>.
 
 <hr />
 
-<div align="center">
-  <a href="https://github.com/eulucasm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=eulucasm&layout=compact&langs_count=15&theme=dracula" />
-</div>
-
-<hr /> 
   
 **O que estou estudando**
   
@@ -67,6 +61,15 @@ Me chamo <b> Lucas Marques</b>.
 **Repositorio de estudo Javascript e Typescript**
   
 - https://github.com/eulucasm/curso-js-ts - Conteudo do curso com explicações de das aulas, exercicios praticos(sim, eu resolvi todos os propostos), separado por nivel de andamento (Curso do luiz miranda, usando a plataforma Udemy).
+
+<hr /> 
+
+<div align="center">
+  <a href="https://github.com/eulucasm">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=eulucasm&layout=compact&langs_count=15&theme=dracula" />
+</div>
+
+<hr /> 
 
 
 **My Skills:**  
