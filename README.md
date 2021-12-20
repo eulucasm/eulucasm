@@ -39,7 +39,7 @@ Me chamo <b> Lucas Marques</b>.
 <hr />
 
   
-**O que estou estudando**
+**O que estou estudando!**
   
 - <a href="https://www.typescriptlang.org/" target="_blank" >TypeScript</a> .
 - <a href="https://nodejs.org/en/" target="_blank" >Node.Js</a>.
