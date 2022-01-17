@@ -25,7 +25,8 @@ Me chamo <b> Lucas Marques</b>.
 
 
 
-- Hoje atuando como Dev Backend JR. 
+- Hoje atuando como Android Developer.
+- Migrei para desenvolvimento Android graças ao projeto bootcamp da CI&T <3.
 - 💼 Sou apaixonado por tecnologia, por isso sigo estudando todos os dias, sem descanso para alcançar meus objetivos;
 - 👾 Meus hobbies são: 
   - Estudar (sou viciado em adquirir conhecimento); 
@@ -41,14 +42,9 @@ Me chamo <b> Lucas Marques</b>.
   
 **O que estou estudando!**
   
-- <a href="https://www.typescriptlang.org/" target="_blank" >TypeScript</a> .
-- <a href="https://nodejs.org/en/" target="_blank" >Node.Js</a>.
-- <a href="https://nestjs.com/" target="_blank" >NestJs (Iniciando)</a>.
-- <a href="https://vuejs.org/" target="_blank" >Vue.Js(Iniciando)</a>.
+- <a href="https://developer.android.com" target="_blank" >Java</a> .
+- <a href="https://developer.android.com/kotlin" target="_blank" >Kotlin</a> .
 
-**Projeto que estou trabalhando**
-  
-- https://github.com/eulucasm/meus-estudos-rocket - Formação Node com o Ignite junto a rocketseat
 
 **Principais projetos**
   
@@ -57,6 +53,7 @@ Me chamo <b> Lucas Marques</b>.
 - https://github.com/eulucasm/nlw-Node - Construção de uma API em conjunto da NLW/Rocketseat;
 - https://github.com/eulucasm/udm_realTimeChet-webSocket - Chat em tempo real com WebSocket;
 - https://github.com/eulucasm/endPoint_node_nest - Api desenvolvida em Nest para estudo de autenticação e autorização, envio de emails para confirmação de cadastro, envio de emails para recuperação de senha, e um CRUD completo;
+- https://github.com/eulucasm/meus-estudos-rocket - Formação Node com o Ignite junto a rocketseat(incompleto)
 
 **Repositorio de estudo Javascript e Typescript**
   
