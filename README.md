@@ -52,7 +52,7 @@ Me chamo <b> Lucas Marques</b>.
 **Principais projetos em:**
 
   <a href="https://github.com/eulucasm/organ_js_portf" target="_blank" >JavaScript e TypeScript. </a>
-
+  <a href="https://github.com/eulucasm/organ_kotlin_portf" target="_blank" >Kotlin e Android/kotlin. </a>
 
 <hr /> 
 
