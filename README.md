@@ -47,6 +47,7 @@ Me chamo <b> Lucas Marques</b>.
 
 
 **Principais projetos em:**
+
   <a href="https://github.com/eulucasm/organ_js_portf" target="_blank" >JavaScript e TypeScript. </a>
 
 
