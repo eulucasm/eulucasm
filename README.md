@@ -46,6 +46,9 @@ Me chamo <b> Lucas Marques</b>.
 - <a href="https://developer.android.com/kotlin" target="_blank" >Kotlin</a> .
 
 
+<hr />
+
+
 **Principais projetos em:**
 
   <a href="https://github.com/eulucasm/organ_js_portf" target="_blank" >JavaScript e TypeScript. </a>
