@@ -49,10 +49,11 @@ Me chamo <b> Lucas Marques</b>.
 <hr />
 
 
-**Principais projetos em:**
+**Principais projetos e repositorios:**
 
 - <a href="https://github.com/eulucasm/organ_js_portf" target="_blank" >JavaScript e TypeScript. </a>
 - <a href="https://github.com/eulucasm/organ_kotlin_portf" target="_blank" >Kotlin e Android/kotlin. </a>
+- <a href="https://github.com/eulucasm/repo_uniao_ebac" target="_blank" >Repo do Curso na EBAC( Curso do desenvolvedor Android Kotlin). </a>
 
 <hr /> 
 
