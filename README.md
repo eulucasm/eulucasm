@@ -42,7 +42,7 @@ Me chamo <b> Lucas Marques</b>.
   
 **O que estou estudando!**
   
-- <a href="https://developer.android.com" target="_blank" >Java</a> .
+- <a href="https://developer.android.com" target="_blank" >Android</a> .
 - <a href="https://developer.android.com/kotlin" target="_blank" >Kotlin</a> .
 
 
