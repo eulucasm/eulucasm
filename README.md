@@ -42,7 +42,8 @@ Me chamo <b> Lucas Marques</b>.
   
 - <a href="https://developer.android.com" target="_blank" >Android</a> .
 - <a href="https://developer.android.com/kotlin" target="_blank" >Kotlin</a> .
-
+- <a href="[https://developer.android.com/kotlin](https://developer.android.com/jetpack/compose?gclid=CjwKCAjwov6hBhBsEiwAvrvN6ONDxq5jz7RxpDJ4GMrrjXpfxKT0JGrxNUcB7YFKJuygc7YYg-omzBoC0zgQAvD_BwE&gclsrc=aw.ds&hl=pt-br)" target="_blank" >Jetpack Compose</a> .
+- <a href="https://developer.android.com/kotlin" target="_blank" >Backend em Kotlin</a> .
 
 <hr />
 
