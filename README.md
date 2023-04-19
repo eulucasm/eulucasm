@@ -2,12 +2,12 @@
 <h1 align="center"> Bem vindo(a) ao meu Git !!! </h1>
 
 <hr/>
-<a href="https://www.linkedin.com/in/lucasmarques90/" target="_blank">
-  <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px"></a>
-
 <p align="left" >
 Me chamo <b> Lucas Marques</b>.
 </p>
+
+<a href="https://www.linkedin.com/in/lucasmarques90/" target="_blank">
+  <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px"></a>
 
 <p align="left" > 
   <b>Salve Devs!</b>
