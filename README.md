@@ -33,7 +33,7 @@ Me chamo <b> Lucas Marques</b>.
   - Cuidar das minhas plantinhas;
 - 💬 Amo conversar e trocar conhecimento, então pode me chamar :) ;
 - 📫 Se preferir, envie um email para Lucaspoletis@gmail.com.
-- 📝 Veja meu <a href="" target="_blank" >Currículo</a> para mais informações ( EM ATUALIZAÇÃO ).
+- 📝 Em breve veja meu <a href="" target="_blank" >Currículo</a> para mais informações ( EM ATUALIZAÇÃO ).
 
 <hr />
 
